@@ -13,21 +13,22 @@ BackBone Labs has already successfully launched LSTs on numerous chains througho
 The Galactic Syndicate utilizes a unique style that is heavily influenced by our partner project, Galactic Mining Club (GMC), with wholly unique art by @IBC_Mafia. We have partnered with BackBone Labs to launch the collection in May 2024. The launch will occur in two phases, as follows:
 
 ### Phase 1:
-A 2-day StreamSwap event where users deposit $INJ to earn $SYN, the token necessary to purchase a Galactic Syndicate NFT. The use of StreamSwap allows for a dynamic price model for the NFTs, where a fixed amount of $SYN will be available. During the bootstrapping phase, users deposit $INJ into the StreamSwap. As the total amount of $INJ increases, the price of $SYN will evidence a corresponding increase until this phase ends. At the end of the bootstrapping phase, the $SYN price will be determined by the total amount of $INJ in the pool divided amongst the available $SYN, and users can claim their $SYN tokens from the pool to prepare for mint.
+A 2-day Stream event where users deposit $INJ to earn $SYN, the token necessary to purchase a Galactic Syndicate NFT. The use of Stream allows for a dynamic price model for the NFTs, where a fixed amount of $SYN will be available. During the bootstrapping phase, users deposit $INJ into the Stream. As the total amount of $INJ increases, the price of $SYN will evidence a corresponding increase until this phase ends. At the end of the bootstrapping phase, the $SYN price will be determined by the total amount of $INJ in the pool divided amongst the available $SYN, and users can claim their $SYN tokens from the pool to prepare for mint.
 
 There will be a total of 100,000 $SYN tokens. 10% is earmarked for airdrops to identified communities (e.g. Galactic Mining Club and GraveDigger collections). 7.5% is also being withheld to ensure adequate liquidity for trading, and 2.5% will be utilized for K.O.L.. The remainder will be available during this event.
 
 ### Phase 2:
-Immediately upon the end of the StreamSwap event, BackBone Labs’ Necromancer Launchpad will open on Injective to facilitate the mint of Galactic Syndicate. Each Galactic Syndicate NFT costs 10 $SYN. For users who do not secure enough to mint, $SYN will also be tradable on a secondary market at this time. $SYN collected from the mint will be burned.
+Immediately upon the end of the Stream event, BackBone Labs’ Necromancer Launchpad will open on Injective to facilitate the mint of Galactic Syndicate. Each Galactic Syndicate NFT costs 10 $SYN. For users who do not secure enough to mint, $SYN will also be tradable on a secondary market at this time. $SYN collected from the mint will be burned.
 
 ## Overview of Mint Funds
 From the total amount raised:
 
 - 7.5% will be paired with $SYN for liquidity
+  This liquidity will be split between WhiteWhale and Dojo. (3.5% and 4% respectively)
 - 10% will be provided to Ark Protocol per partnership agreement
-- The remainder of funds raised will be split 50/50 between BackBone Labs and Galactic Mining Club/Galactic Syndicate and used to pay any associated fees related to the mint (e.g. StreamSwap, artist fees, team fees, marketing, etc), to further development of infrastructure, and build initial volume in the GraveDigger to increase return to stakers.
-
-There will be an ongoing 5% royalty for sales of Galactic Syndicate NFTs on the secondary market. This fee will be divided between the artist, the Galactic Syndicate treasury, and the team.
+- The remainder of funds raised will be split 50/50 between BackBone Labs and Galactic Mining Club/Galactic Syndicate and used to pay any associated fees related to the mint (e.g. Stream, artist fees, team fees, marketing, etc), to further development of infrastructure, and build initial volume in the GraveDigger to increase return to stakers. 
+- There will be an ongoing 5% royalty for sales of Galactic Syndicate NFTs on the secondary market. This fee will be divided between the artist, the Galactic Syndicate treasury, and the team.
+- Both BackBone Labs and Galactic Syndicate will bond a minimum of 30% of their respective funds to the Injective GraveDigger for a minimum of 12 months.
 
 ## Staking
 In order to earn yield from the $bINJ token and GraveDigger, Galactic Syndicate NFTs will need to be staked. A minimum of two (2) Galactic Syndicate NFTs are required to earn $bINJ rewards. Stakers will be able to contribute to the future success of the Syndicate by participating in governance votes and engaging in various community social pages.

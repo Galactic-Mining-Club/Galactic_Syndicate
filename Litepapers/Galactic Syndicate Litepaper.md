@@ -18,7 +18,7 @@ A 3-day Stream event where users deposit $INJ to earn $SYN, the token necessary 
 There will be a total of 100,000 $SYN tokens. 10% is earmarked for airdrops to identified communities (e.g. Galactic Mining Club and GraveDigger collections). 7.5% is also being withheld to ensure adequate liquidity for trading, and 3.5% will be utilized for K.O.L and marketing. The remainding 79% will be available during the StreamSwap.
 
 ### Phase 2:
-Immediately upon the end of the Stream event, BackBone Labs’ Necromancer Launchpad will open on Injective to facilitate the mint of Galactic Syndicate. Each Galactic Syndicate NFT costs 10 $SYN. For users who do not secure enough to mint, $SYN will also be tradable on a secondary market at this time. $SYN collected from the mint will be burned.
+As soon as possible upon the end of the Stream event, BackBone Labs’ Necromancer Launchpad will open on Injective to facilitate the mint of Galactic Syndicate. Each Galactic Syndicate NFT costs 10 $SYN. For users who do not secure enough to mint, $SYN will also be tradable on a secondary market at this time. $SYN collected from the mint will be burned.
 
 ## Overview of Mint Funds
 From the total amount raised:
